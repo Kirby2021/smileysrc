@@ -1,0 +1,16 @@
+Hex of colors.                 
+
+- Yellow Clear: #ffe182       - pink: #ff56de                     - kinda pink and purple: #F4C7FE
+- Lime: #05ff4c               - embed background: #303236         - a little pink: #FFBBBC
+- Clear green: #7cc576        - purple: #721293                   - embed background (better): #303136
+- Clear red: #b92d2d          - 2nd clear yellow: #c5be4d         - better clear green: #A3BD8D
+- Clear red 2: #dd5353        - gray (like bot's pfp): #b9c3c2      - better clear yellow: #EACB8B
+- Kinda white: #e5efff        - better yellow: #FBD34D            -
+
+-----------------------------------------------------------------------
+
+Arrows.
+
+➜
+
+-----------------------------------------------------------------------

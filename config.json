@@ -1,0 +1,6 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "prefix": "THE_PREFIX",
+    "developerID": "YOUR_DISCORD_ID",
+    "mongodb": "YOUR_MONGOOSE_CONNECTION_STRING"
+}
